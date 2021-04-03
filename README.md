@@ -27,7 +27,7 @@ _Ex. getElementById()_
 
 ---
 
-## What is Attributes in DOM ?
+## What is Attribute in DOM ?
 
 - Attributes are defined by HTML.
 - Attributes are additional information which we can put in the HTML to initialize certain DOM properties.
